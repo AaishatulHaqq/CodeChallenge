@@ -3,3 +3,14 @@ C:\Users\Arusim Groceries\Desktop\CodeChallenge1\obj\Debug\net5.0\CodeChallenge1
 C:\Users\Arusim Groceries\Desktop\CodeChallenge1\obj\Debug\net5.0\CodeChallenge1.AssemblyInfoInputs.cache
 C:\Users\Arusim Groceries\Desktop\CodeChallenge1\obj\Debug\net5.0\CodeChallenge1.AssemblyInfo.cs
 C:\Users\Arusim Groceries\Desktop\CodeChallenge1\obj\Debug\net5.0\CodeChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\bin\Debug\net5.0\CodeChallenge1.exe
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\bin\Debug\net5.0\CodeChallenge1.deps.json
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\bin\Debug\net5.0\CodeChallenge1.runtimeconfig.json
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\bin\Debug\net5.0\CodeChallenge1.runtimeconfig.dev.json
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\bin\Debug\net5.0\CodeChallenge1.dll
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\bin\Debug\net5.0\ref\CodeChallenge1.dll
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\bin\Debug\net5.0\CodeChallenge1.pdb
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\obj\Debug\net5.0\CodeChallenge1.dll
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\obj\Debug\net5.0\ref\CodeChallenge1.dll
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\obj\Debug\net5.0\CodeChallenge1.pdb
+C:\Users\Arusim Groceries\Desktop\CodeChallenge1\obj\Debug\net5.0\CodeChallenge1.genruntimeconfig.cache

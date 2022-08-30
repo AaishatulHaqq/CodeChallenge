@@ -28,7 +28,8 @@ namespace CodeChallenge1
                int answer = number - (number % 8);
                  return firstPerson;
             }
-
+            return firstPerson;
+            return secondPerson;
         }
 
          static string GetBalancedSums()
